@@ -1,0 +1,6 @@
+D:\Scoala\Programare C#-PIU\Tema3_2\Tema3_2\bin\Debug\Tema3_2.exe.config
+D:\Scoala\Programare C#-PIU\Tema3_2\Tema3_2\bin\Debug\Tema3_2.exe
+D:\Scoala\Programare C#-PIU\Tema3_2\Tema3_2\bin\Debug\Tema3_2.pdb
+D:\Scoala\Programare C#-PIU\Tema3_2\Tema3_2\obj\Debug\Tema3_2.csprojAssemblyReference.cache
+D:\Scoala\Programare C#-PIU\Tema3_2\Tema3_2\obj\Debug\Tema3_2.exe
+D:\Scoala\Programare C#-PIU\Tema3_2\Tema3_2\obj\Debug\Tema3_2.pdb
